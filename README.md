@@ -1,6 +1,6 @@
 # 👩‍🔬 Hi, I'm Taran Khan
 
-🎓 MSc Data Science (Bioinformatics) – Durham University  
+🎓 MSc Data Science (Bioinformatics and Molecular Modeling) – University  of Durham
 🔍 Data Analyst | Clinical Bioinformatics | NGS & Genomic Data | Machine Learning  
 📍 United Kingdom  
 📧 tarankhan1999@gmail.com | [LinkedIn](https://www.linkedin.com/in/khantaran)
