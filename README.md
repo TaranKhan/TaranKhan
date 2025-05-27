@@ -1,4 +1,4 @@
-Hi, I'm Taran Khan  
+# Hi, I'm Taran Khan  
 🎓 Master of Data Science (Bioinformatics & Biological Modelling) – University of Durham  
 🔍 Data Analyst | Clinical Bioinformatics | Genomic Data | NGS | Machine Learning  
 📍 United Kingdom 📧 tarankhan1999@gmail.com 🌐 [GitHub](https://github.com/TaranKhan) | [LinkedIn](https://www.linkedin.com/in/YOURUSERNAME)
