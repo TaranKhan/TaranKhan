@@ -15,6 +15,11 @@ With tools like **Python, R, SQL**, and **AWS**, I work across biological and bu
 
 ## 🧪 Projects
 
+### 🧬 [Breast Cancer Classification](https://github.com/TaranKhan/breast-cancer-classification)
+- Achieved **96.35% accuracy** using SVM on the Breast Cancer Wisconsin dataset (683 samples, 10 features)
+- Compared 4 models (SVM, Logistic Regression, KNN, Random Forest) with precision/recall > 90%
+- Used Random Forest to visualize feature importance; top predictors included *Cell Size* and *Bare Nuclei*
+
 ### 🩺 [Diabetes Prediction using EDA & ML](https://github.com/TaranKhan/diabetes-eda-ml)
 - Performed exploratory data analysis on the PIMA Indian Diabetes dataset  
 - Built and evaluated Logistic Regression & Random Forest models  
