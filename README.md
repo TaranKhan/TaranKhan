@@ -15,6 +15,12 @@ With tools like **Python, R, SQL**, and **AWS**, I work across biological and bu
 
 ## 🧪 Projects
 
+### 🌍 [Global Health Dashboard](https://github.com/TaranKhan/global-health-dashboard)
+- Analyzed data from 200+ countries (2010–2023) using WHO and World Bank datasets  
+- Found a strong correlation (r = 0.63) between health spending and life expectancy  
+- Visualized trends using choropleth maps, scatter plots, and heatmaps  
+- Highlighted top countries (Monaco, Japan) and outliers like the U.S.  
+
 ### 🧬 [Breast Cancer Classification](https://github.com/TaranKhan/breast-cancer-classification)
 - Achieved **96.35% accuracy** using SVM on the Breast Cancer Wisconsin dataset (683 samples, 10 features)
 - Compared 4 models (SVM, Logistic Regression, KNN, Random Forest) with precision/recall > 90%
